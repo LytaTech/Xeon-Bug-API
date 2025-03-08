@@ -1,13 +1,13 @@
 {
   "name": "Xeon-Bug-API",
   "version": "1.0.0",
-  "description": "WhatsApp Bot Endpoint",
+  "description": "i think Whatsapp is using me",
   "main": "start.js",
   "type": "commonjs",
   "scripts": {
     "start": "node start.js"
   },
-  "author": "DGXeon",
+  "author": "LYTAXeon",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "awesome-phonenumber": "^2.64.0",
