@@ -1,17 +1,17 @@
 require("./doc/module.js")
 
 global.prefix = ['','!','.',',','#','/']
-global.owner = ['916909137213']
-global.ownMain = '916909137213'
-global.NamaOwner = '🦄드림 가이 Xeon' //
+global.owner = ['2347084528285']
+global.ownMain = '2347084528285'
+global.NamaOwner = 'big stepper LYTA Xeon' //
 global.sessionName = 'session'
 global.connect = true // 
 global.namabot = 'X-EndPoint' //
-global.author = '🦄드림 가이 Xeon' //
+global.author = '🦄드림 가이 LYTA Xeon' //
 global.packname = 'Xeon-Bug-API' //
-global.url1 = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20' //
-global.url2 = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20' //
-global.linkgc = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.url1 = 'https://m.webnovel.com/book/reincarnated-as-a-mushroom_31834764608814605' //
+global.url2 = 'https://m.webnovel.com/book/reincarnated-as-a-mushroom_31834764608814605' //
+global.linkgc = 'https://m.webnovel.com/book/reincarnated-as-a-mushroom_31834764608814605'
 global.delayjpm = 3500
  
 
